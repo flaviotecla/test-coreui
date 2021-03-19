@@ -1,0 +1,5 @@
+npm install @coreui/coreui --save
+npm install @coreui/angular --save
+npm install @coreui/icons --save
+npm install @fortawesome/fontawesome-free --save
+npm install simple-line-icons --save
